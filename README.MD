@@ -4,6 +4,8 @@
 
 CLI QR code generator for MS DOS
 
+![QRSAY DEMO](DEMO/QRSAY.PNG)
+
 ```
 SYNTAX: QRSAY [options] /F file | MESSAGE
 OPTIONS:
