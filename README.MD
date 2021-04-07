@@ -2,7 +2,7 @@
 
 ## QRSAY
 
-CLI QR code generator for MS DOS
+CLI QR code generator for MS DOS. TP5.5+
 
 ![QRSAY DEMO](DEMO/QRSAY.PNG)
 
@@ -19,6 +19,6 @@ OPTIONS:
 
 ## SNEAKERS.PAS 
 
-Re-creation of de-cryption scene in Sneakers movie using DOS codegenerator functionality.
+Re-creation of de-cryption scene in Sneakers movie using DOS codegenerator functionality. TP4+
 
 ![SNEAKERS DEMO](DEMO/SNEAKERS.GIF)
